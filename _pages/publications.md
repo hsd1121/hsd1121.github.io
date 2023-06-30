@@ -15,5 +15,5 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
-<iframe src="publications.html"  sandbox="allow-same-origin allow-scripts" width="120%"  height="600"  scrolling="no" seamless="seamless" frameborder="0" allowfullscreen>
+<iframe src="https://hsd1121.github.io/publications.html"  sandbox="allow-same-origin allow-scripts" width="120%"  height="600"  scrolling="no" seamless="seamless" frameborder="0" allowfullscreen>
 </iframe>
