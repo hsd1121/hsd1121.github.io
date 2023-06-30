@@ -16,5 +16,5 @@ My research specialization is in robotics and artificial intelligence. Specifica
 
 Education and Work Experience
 ======
-I am working on my Ph.D. in Computer Science at the University of Maryland, College Park. I obtained my M.S. in Computer Engineering from Virginia Tech in 2017 and my B.S. in Computer Engineering from [Virginia Tech](https://www.vt.edu/) in 2014. I have also interned with [NASA JPL](https://www.jpl.nasa.gov/) during my Ph.D. as well as multiple summers with the Federal Goverment during my B.S. and M.S.
+I am working on my Ph.D. in Computer Science at the University of Maryland, College Park. I obtained my M.S. in Computer Engineering in 2017 and my B.S. in Computer Engineering in 2014 from [Virginia Tech](https://www.vt.edu/). I have also interned with [NASA JPL](https://www.jpl.nasa.gov/) during my Ph.D. as well as multiple internships with the Federal Goverment during my B.S. and M.S.
 
