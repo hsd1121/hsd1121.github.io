@@ -2,7 +2,7 @@
 title: "Crop Height and Plot Estimation for Phenotyping from Unmanned Aerial Vehicles using 3D LiDAR"
 collection: publications
 permalink: /publication/crop-height
-date: 2020
+date: 2020-10-25
 venue: 'Proceedings of the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)'
 paperurl: 'http://hsd1121.github.io/files/crop-height.pdf'
 ---
