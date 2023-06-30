@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Harnaik Dhami"
   avatar           : "profile.png"
-  bio              : "PhD Student at the University of Maryland working on Robotics and AI problems in RAAS Lab"
+  bio              : "PhD Student at the University of Maryland working on robotics and AI problems in RAAS Lab"
   location         : "College Park, MD, USA"
   employer         :
   pubmed           : 
@@ -176,7 +176,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true
@@ -185,7 +185,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
