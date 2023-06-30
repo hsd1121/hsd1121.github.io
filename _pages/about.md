@@ -12,9 +12,9 @@ I am a Ph.D. student in Computer Science at the [University of Maryland, College
 
 Research Interests
 ======
-My research specialization is in robotics and artificial intelligence. Specifically, I solve path planning, perception, and deep learning problems in robotics applications. This includes deploying solutions in simulation environments such as Gazebo and AirSim as well as real-world applications utilizing DJI's frameworks.
+My research specialization is in robotics and artificial intelligence. Specifically, I solve path planning, perception, and deep learning problems for robotics applications. This includes deploying solutions in simulation environments such as Gazebo and AirSim as well as real-world applications utilizing DJI's frameworks.
 
-Education
+Education and Work Experience
 ======
 I am working on my Ph.D. in Computer Science at the University of Maryland, College Park. I obtained my M.S. in Computer Engineering from Virginia Tech in 2017 and my B.S. in Computer Engineering from Virginia Tech in 2014. I have also interned with NASA JPL during my Ph.D. as well as multiple summers with the Federal Goverment during my B.S. and M.S.
 
